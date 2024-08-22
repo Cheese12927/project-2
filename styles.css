@@ -1,1 +1,28 @@
+h1{
+    text-align:center;
+    
+    
 
+
+}
+
+body{
+    font-size:20px;
+}
+
+h1{
+    color:orange;
+}
+
+header{
+    background-color:lightgreen;
+}
+
+main{
+    background-color: lightgreen;
+}
+
+footer{
+    background-color: lightgreen;
+    color:red;
+}
